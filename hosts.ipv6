@@ -2,6 +2,8 @@
 
 #下列均为官方给出的准确地址，其中红色地址可以通过 https 加密连接访问。另外无需去除下列列表中的#号，我用来做标注的
 
+# 六维
+2001:da8::9000::232 bt.neu6.edu.cn
 ##Google.com Google.com
 2404:6800:8005::69 google.com
 2404:6800:8005::54 accounts.google.com #帐户
@@ -15,13 +17,13 @@
 2404:6800:8005::8b goto.google.com #跳转
 2404:6800:8005::d2 jmt0.google.com
 2404:6800:8005::d2 wire.l.google.com
-#2404:6800:8005::63 ipv6.google.com
-#2404:6800:8005::69 ipv6.google.com
-#2404:6800:8005::63 ipv6.google.com.hk
-#2404:6800:8005::69 ipv6.google.com.hk
-#2404:6800:8005::63 ipv6.google.co.jp
-#2404:6800:8005::69 ipv6.google.co.jp
-#2404:6800:8005::63 ipv6.l.google.com
+2404:6800:8005::63 ipv6.google.com
+2404:6800:8005::69 ipv6.google.com
+2404:6800:8005::63 ipv6.google.com.hk
+2404:6800:8005::69 ipv6.google.com.hk
+2404:6800:8005::63 ipv6.google.co.jp
+2404:6800:8005::69 ipv6.google.co.jp
+2404:6800:8005::63 ipv6.l.google.com
 
 ##Google.com.hk 谷歌香港
 2404:6800:8005::2e www.google.com.hk
@@ -5408,3 +5410,5 @@
 
 #IPv6 HTTP 代理：gfw-proxy.co.cc:3128
 2607:fcd0:1337:4b::2 gfw-proxy.co.cc
+
+
