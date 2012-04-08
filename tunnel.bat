@@ -42,4 +42,3 @@
 
 ::netsh interface ipv6 isatap set router isatap.sjtu.edu.cn ::上海交大
 
-pause
